@@ -4,7 +4,7 @@ function Header() {
     <header className="text-primary body-font p-6 inline-block z-50">
       <div className="absolute inset-x-0 top-3 h-16 container mx-auto flex p-6 md:flex-row justify-between text-primary">
         <a className="flex title-font font-medium items-center mb-4 md:mb-0 text-primary">
-        <img className="w-15 h-14 rounded-full" src="../src/img/randomDog.svg" alt="Rounded avatar" />
+        <img className="w-15 h-14 rounded-full" src="https://svgsilh.com/svg/1728494.svg" alt="Rounded avatar" />
           <span className="ml-3 p-1 text-xl flex justify-between hover:text-secondary">Vitoria Dogs</span>
         </a>
         <nav className="md:ml-auto flex flex-row items-center text-base justify-between">
