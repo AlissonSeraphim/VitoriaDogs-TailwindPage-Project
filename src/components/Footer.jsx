@@ -7,32 +7,32 @@ function Footer() {
         <div className="grid gap-4 md:grid-cols-3 lg:grid-cols-6">
           <div className="mb-6 lg:mb-0 object-fill">
             <img
-              src="../src/img/dog1.jpeg"
+              src="https://i.ibb.co/P1hkhhB/dog1.jpg"
               className="w-full rounded-md shadow-lg hidden md:block" />
           </div>
           <div className="mb-6 lg:mb-0">
             <img
-              src="../src/img/dog2.jpeg"
+              src="https://i.ibb.co/DL8Hpxx/dog2.jpg"
               className="scale-75 rounded-md shadow-lg hidden md:block" />
           </div>
           <div className="mb-6 lg:mb-0">
             <img
-              src="../src/img/dog3.jpeg"
+              src="https://i.ibb.co/4ZNv0V2/dog3.jpg"
               className="w-full rounded-md shadow-lg" />
           </div>
           <div className="mb-6 lg:mb-0">
             <img
-              src="../src/img/dog4.jpeg"
+              src="https://i.ibb.co/0f5XckF/dog4.jpg"
               className="scale-75 rounded-md shadow-lg hidden md:block" />
           </div>
           <div className="mb-6 lg:mb-0">
             <img
-              src="../src/img/dog5.jpeg"
+              src="https://i.ibb.co/kxcr1Rz/dog5.jpg"
               className=" scale-95 rounded-md shadow-lg hidden md:block" />
           </div>
           <div className="mb-6 lg:mb-0">
             <img
-              src="../src/img/dog6.jpeg"
+              src="https://i.ibb.co/dgpwVkP/dog6.jpg"
               className="scale-75 rounded-md shadow-lg hidden md:block" />
           </div>
         </div>
