@@ -2,17 +2,17 @@ function ContactUs() {
 
   return (
     <section className="bg-white dark:bg-gray-900">
-        <div className="container px-6 py-12 mx-auto">
+        <div className="container px-6 py-10 mx-auto">
             <div>
                 <h2 className="mt-2 text-2xl font-semibold text-primary md:text-3xl" id="contactUs">Fale Conosco</h2>
 
                 <p className="mt-3 text-tertiary">Entre em contato para realizar o agendamento do seu pet</p>
             </div>
 
-            <div className="grid grid-cols-1 gap-12 mt-10 lg:grid-cols-3">
-                <div className="grid grid-cols-1 gap-12 sm:grid-cols-2 lg:grid-cols-1">
+            <div className="grid grid-cols-1 mt-10 lg:grid-cols-3">
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-1">
                     <div>
-                        <span className="inline-block p-3 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800">
+                        <span className="inline-block p-3 mt-1 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800">
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           className="h-5 w-5"
@@ -23,13 +23,13 @@ function ContactUs() {
                         </svg>
                         </span>
 
-                        <h2 id="whatsapp" className="mt-4 text-base font-medium text-primary">WhatsApp</h2>
+                        <h2 id="whatsapp" className="mt-2 text-base font-medium text-primary">WhatsApp</h2>
                         <p className="mt-2 text-sm text-tertiary">Agende via WhatsApp</p>
                         <p className="mt-2 text-sm text-tertiary">+55 48 9999-9999</p>
                     </div>
 
                     <div>
-                        <span className="inline-block p-3 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800">
+                        <span className="inline-block p-3 mt-1 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800">
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           className="h-5 w-5"
@@ -40,8 +40,25 @@ function ContactUs() {
                         </svg>
                         </span>
                         
-                        <h2 className="mt-4 text-base font-medium text-primary" id="instagram">Instagram</h2>
+                        <h2 className="mt-2 text-base font-medium text-primary" id="instagram">Instagram</h2>
                         <p className="mt-2 text-sm text-tertiary">Agende via Instagram na DM</p>
+                        <a className="mt-2 text-sm text-tertiary" href='https://www.instagram.com/vi.saciloto/'>Clique aqui</a>
+                    </div>
+
+                    <div>
+                        <span className="inline-block p-3 mt-2 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          className="h-5 w-5"
+                          fill="currentColor"
+                          viewBox="0 0 24 24">
+                          <path
+                            d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z" />
+                        </svg>
+                        </span>
+                        
+                        <h2 className="mt-2 text-base font-medium text-primary" id="instagram">Facebook</h2>
+                        <p className="mt-2 text-sm text-tertiary">Agende via Facebook na DM</p>
                         <a className="mt-2 text-sm text-tertiary" href='https://www.instagram.com/vi.saciloto/'>Clique aqui</a>
                     </div>
 
@@ -54,16 +71,18 @@ function ContactUs() {
                           />
                         </div>
                     <div>
+
                       
-                        <span className="inline-block p-3 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800">
+                      
+                        <span className="inline-block p-3 mt-1 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800">
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" className="w-5 h-5">
                                 <path d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 002.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 01-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 00-1.091-.852H4.5A2.25 2.25 0 002.25 4.5v2.25z" />
                             </svg>
                         </span>
                         
-                        <h2 className="mt-4 text-base font-medium text-primary">Telefone</h2>
+                        <h2 className="mt-2 text-base font-medium text-primary">Telefone</h2>
                         <p className="mt-2 text-sm text-tertiary">Agende sua data por ligação</p>
-                        <p className="mt-2 text-sm text-tertiary">+55 48 9999-9999</p>
+                        <p className="mt-2 text-sm text-tertiary mb-5">+55 48 9999-9999</p>
                     </div>
                 </div>
 
