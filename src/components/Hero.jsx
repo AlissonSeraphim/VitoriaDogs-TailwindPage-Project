@@ -25,7 +25,7 @@ function Hero() {
             </div>
 
             <div className="overflow-hidden rounded-lg bg-gray-100 shadow-lg">
-              <img src="../src/img/vi2.jpeg" loading="lazy" alt="Foto vitoria e dog2" className="h-full w-full object-cover object-center" />
+              <img src="https://i.ibb.co/x70Pq09/vi2.jpg" loading="lazy" alt="Foto vitoria e dog2" className="h-full w-full object-cover object-center" />
             </div>
           </div>
         </div>
