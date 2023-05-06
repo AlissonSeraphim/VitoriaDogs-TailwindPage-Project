@@ -2,7 +2,7 @@ function Footer() {
 
   return (
     <footer
-      className="mx-auto max-w-screen-xl px-4 md:px-8 p-8">
+      className="mx-auto max-w-screen-xl px-4 md:px-8 p-8 ">
       <div className="container p-6 w-full bg-gradient-to-r from-secondary via-primary to-tertiary animate-pulse rounded-2xl">
         <div className="grid gap-4 md:grid-cols-3 lg:grid-cols-6">
           <div className="mb-6 lg:mb-0 object-fill">
