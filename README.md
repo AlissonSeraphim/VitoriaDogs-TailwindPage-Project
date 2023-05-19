@@ -1,6 +1,6 @@
 ## VitoriaDogs-TailwindPage-Project
 
-# Website de Divulgação de Serviço de Cuidados de Cachorros
+# [PT-BR] Website de Divulgação de Serviço de Cuidados de Cachorros
 
 Bem-vindo ao website de divulgação do serviço de uma autonoma cuidadora de cães! Este projeto tem como objetivo fornecer informações sobre os serviços que ofereço e permitir que os interessados entrem em contato comigo para agendar os cuidados para seus animais de estimação.
 
@@ -27,6 +27,32 @@ Este projeto não possui uma licença específica, pois é destinado apenas à d
 Entre em contato para obter mais informações.
 
 # Contato
-- Nome: Aisson Tassi
+- Nome: Alisson Tassi
 - Email: alissonluansc@hotmail.com
 - Telefone: +5548 99111-6445
+
+# [EN-US] Dog Care Service Website
+Welcome to the website of an autonomous dog caregiver service! This project aims to provide information about the services I offer and allow interested parties to contact me to schedule care for their pets.
+
+The website was built using React and styled with Tailwind CSS for a modern and pleasant appearance.
+
+# Access the Website
+You can access the website at this link: https://alissonseraphim.github.io/VitoriaDogs-TailwindPage-Project/
+
+# Technologies Used
+- React
+- Vite
+- Tailwind CSS
+
+# Contribution
+We do not accept contributions to this project, as it is only intended for the promotion of the service. However, feel free to contact us if you have suggestions or need additional information.
+
+# License
+This project does not have a specific license, as it is intended only for the promotion of the service. All rights reserved.
+
+Contact us for more information.
+
+# Contact
+- Name: Alisson Tassi
+- Email: alissonluansc@hotmail.com
+- Phone: +5548 99111-6445
