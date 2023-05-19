@@ -8,11 +8,12 @@ O website foi construído utilizando React e estilizado com Tailwind CSS para um
 
 ## Acesse o Website
 
-Você pode acessar o website neste link: [Nome do Website](https://seusite.github.io)
+Você pode acessar o website neste link: https://alissonseraphim.github.io/VitoriaDogs-TailwindPage-Project/
 
 ## Tecnologias Utilizadas
 
 - React
+- Vite
 - Tailwind CSS
 
 ## Contribuição
