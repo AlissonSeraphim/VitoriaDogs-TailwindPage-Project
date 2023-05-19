@@ -27,7 +27,7 @@ Este projeto não possui uma licença específica, pois é destinado apenas à d
 Entre em contato para obter mais informações.
 
 # Contato
-- Nome: Alisson Tassi
+- Nome: Alisson Luan da Silva Tassi
 - Email: alissonluansc@hotmail.com
 - Telefone: +5548 99111-6445
 
@@ -53,6 +53,6 @@ This project does not have a specific license, as it is intended only for the pr
 Contact us for more information.
 
 # Contact
-- Name: Alisson Tassi
+- Name:  Alisson Luan da Silva Tassi
 - Email: alissonluansc@hotmail.com
 - Phone: +5548 99111-6445
