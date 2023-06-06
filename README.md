@@ -2,9 +2,9 @@
 
 # [PT-BR] Website de Divulgação de Serviço de Cuidados de Cachorros
 
-Bem-vindo ao website de divulgação do serviço de uma autonoma cuidadora de cães! Este projeto tem como objetivo fornecer informações sobre os serviços que ofereço e permitir que os interessados entrem em contato comigo para agendar os cuidados para seus animais de estimação.
+Bem-vindo(a) ao website de divulgação do serviço de uma cuidadora de cães autônoma! Este projeto tem como objetivo fornecer informações sobre os serviços oferecidos e permite que os interessados entrem em contato para agendar os cuidados para seus animais de estimação.
 
-O website foi construído utilizando React e estilizado com Tailwind CSS para uma aparência moderna e agradável.
+O website foi construído utilizando React e estilizado com Tailwind CSS, proporcionando uma aparência moderna e agradável. 
 
 ## Acesse o Website
 
